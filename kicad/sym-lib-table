@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "henHouse-cache") (type "Legacy") (uri "C:/Users/julie/Documents_Julien/Projets/henHouse/kicad/henHouse-cache.lib") (options "") (descr "Librairie cache du projet hérité"))
+)
