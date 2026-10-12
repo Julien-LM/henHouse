@@ -22,5 +22,6 @@ Futur :
 - Mesure niveau cuve eau (capteur trop plein)
 - Afficheur LCD (I²C?)
 - I/O expandeur (SPI/I²C?)
-- Boutons commande (3/4)
+- Boutons commande 3
+- 2 switchs piano pour contrôler 4 modes différents
 - Capteur température intérieur extérieur
