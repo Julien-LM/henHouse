@@ -14,4 +14,5 @@ Communication SPI/I2c avec le ESP 32
 Ajout d'une fuel gauge
 Libération d'entrée sorties ou ajout d'un mltiplexeur pour permettre la commande de relais pour (eclairage/ Arrosage/ ouverture/fermeture/clutore)
 
-V1.1 => Communication avec les ESP
+Nouveau choix technique, passage de l'arduino à un microcontrôleur microchip PIC18F47Q43
+Ajoût d'un régulateur à faible consommation MCP1702 en TO-92 pour stabiliser le 5V. On conserve le LM2596 pour descendre le 12V à 6V efficacement 
